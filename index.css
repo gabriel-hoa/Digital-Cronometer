@@ -2,11 +2,28 @@ body{
     background-color: rgb(25, 22, 22);
 }
 
-div{
-    text-align: center;
-    margin-top: 10%;
-    
+.header {
+    width: max-content;
+    height: 50px;
 }
+
+.header p{
+    font-size: 30px;
+    margin-left: 520px;
+    
+    margin-top: 50px;
+    color: white;
+}
+
+.principal{
+    text-align: center;
+    
+    border: 3px solid white;
+    max-width: 400px;
+    margin-left: 400px;
+    padding-bottom: 10px;
+}
+
 h1{
     color: white;
 }
